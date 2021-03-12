@@ -4,7 +4,7 @@
  * terms of the GNU GPL v3 license.
  *
  * You should have received a copy of the GNU GPL v3 license with
- * this file. If not, please write to: william@gsrv.io
+ * this file. If not, please write to: support@gsrv.io
  */
 
 function ratelimiter ($ip, $service = "general", $limit = 3, $time = "10 MINUTE") {
